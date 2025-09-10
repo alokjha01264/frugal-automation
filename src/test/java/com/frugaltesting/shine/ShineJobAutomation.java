@@ -53,7 +53,7 @@ public class ShineJobAutomation {
         try {
             openAndLogin();
             takeScreenshot("after_login");
-            searchJob("Software Tester", "Hyderabad", "0");
+            searchJob("Software Tester", "Hyderabad", "2");
             selectSecondJobAndApply();
         } catch (Exception e) {
             System.err.println("Exception during automation: " + e.getMessage());
