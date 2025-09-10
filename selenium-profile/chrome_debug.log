@@ -1,0 +1,16 @@
+[20832:4236:0910/155931.898:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:206] No machine level policy manager exists.
+[20752:17164:0910/155931.995:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[13552:18484:0910/155931.999:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[20884:9368:0910/155933.757:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[20848:19084:0910/155933.933:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[11960:20456:0910/155934.008:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[20832:4236:0910/155934.278:INFO:CONSOLE:1] "JobID not found in payload", source: https://www.shine.com/_next/static/chunks/pages/_app-4ca8b89389b92961.js (1)
+[20832:4236:0910/155934.280:INFO:CONSOLE:1] "JobID not found in payload", source: https://www.shine.com/_next/static/chunks/pages/_app-4ca8b89389b92961.js (1)
+[20832:4236:0910/155936.052:INFO:CONSOLE:1] "JobID not found in payload", source: https://www.shine.com/_next/static/chunks/pages/_app-4ca8b89389b92961.js (1)
+[20832:4236:0910/155936.053:INFO:CONSOLE:1] "JobID not found in payload", source: https://www.shine.com/_next/static/chunks/pages/_app-4ca8b89389b92961.js (1)
+[20832:4236:0910/155937.457:INFO:CONSOLE:1] "JobID not found in payload", source: https://www.shine.com/_next/static/chunks/pages/_app-4ca8b89389b92961.js (1)
+[20832:4236:0910/155937.458:INFO:CONSOLE:1] "JobID not found in payload", source: https://www.shine.com/_next/static/chunks/pages/_app-4ca8b89389b92961.js (1)
+[20832:19476:0910/155940.512:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[20832:19476:0910/160008.260:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[20832:19476:0910/160058.408:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[19808:18912:0910/160134.870:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
